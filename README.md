@@ -3,9 +3,9 @@
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=shawnpotter&label=Profile%20views&color=0e75b6&style=flat" alt="shawnpotter" /> </p>
 
-- 🔭 I’m currently working on **a Spring project for class**
+- 🔭 I’m currently working on **a project for a client for my Capstone.**
 
-- 🌱 I’m currently learning **Spring, ASP.NET, React**
+- 🌱 I’m currently learning **Squarespace CMS**
 
 - 📫 How to reach me **potter.shawn@student.greenriver.edu**
 
