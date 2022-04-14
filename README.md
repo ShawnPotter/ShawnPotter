@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **a project for a client for my Capstone.**
 
-- 🌱 I’m currently learning **Squarespace CMS**
+- 🌱 I’m currently learning **Solidity**
+
+- 🌳 I'm continuing learning on **ReactJS**
 
 - 📫 How to reach me **potter.shawn@student.greenriver.edu**
 
