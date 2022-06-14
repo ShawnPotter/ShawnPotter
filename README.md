@@ -7,11 +7,11 @@
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=shawnpotter&label=Profile%20views&color=0e75b6&style=flat" alt="shawnpotter" /> </p>
 
-- 🔭 I’m currently working on **a project for a client for my Capstone.**
+- 🔭 I’m currently working on **getting a job after graduating!.**
 
-- 🌱 I’m currently learning **Solidity, Web3**
+- 🌱 I’m currently learning **SCSS**
 
-- 🌳 I'm continuing learning on **ReactJS**
+- 🌳 I'm continuing learning on **React**
 
 - 📫 How to reach me **potter.shawn@student.greenriver.edu**
 
