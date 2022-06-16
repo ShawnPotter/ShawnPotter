@@ -13,7 +13,7 @@
 
 - 🌳 I'm continuing learning on **React**
 
-- 📫 How to reach me **potter.shawn@student.greenriver.edu**
+- 📫 How to reach me **shawnpotter.inquires@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center"> 
