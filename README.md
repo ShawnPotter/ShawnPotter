@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **getting a job after graduating!.**
 
-- 🌱 I’m currently learning **SCSS**
+- 🌱 I’m currently learning **Angular**
 
 - 🌳 I'm continuing learning on **React**
 
