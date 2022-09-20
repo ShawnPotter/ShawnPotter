@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-<a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  alt="jquery" width="40" height="40"/>       
 </a>
 </p>
