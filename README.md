@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **getting a job after graduating!.**
 
-- 🌱 I’m currently learning **Discord.js**
+- 🌱 I’m currently learning **Tailwind CSS**
 
-- 🌳 I'm continuing learning on **React, and Angular**
+- 🌳 I'm continuing learning on **React, TypeScript, and Angular**
 
 - 📫 How to reach me **shawnpotter.inquires+github@gmail.com**
 
