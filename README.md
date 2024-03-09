@@ -7,7 +7,7 @@
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=shawnpotter&label=Profile%20views&color=0e75b6&style=flat" alt="shawnpotter" /> </p>
 
-- 🔭 I’m currently working on **getting a job after graduating!.**
+- 🔭 I’m currently working on **providing data analysis and training AI models!.**
 
 - 🌱 I’m currently learning **Jest**
 
